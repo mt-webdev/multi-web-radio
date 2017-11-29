@@ -1,0 +1,8 @@
+{
+  "name": "multi-web-radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mt-webdev/multi-web-radio.git",
+  "author": "Marco <mtraspel@hotmail.de>",
+  "license": "MIT"
+}
